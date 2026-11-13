@@ -1,0 +1,2309 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-13",
+  "items": [
+    {
+      "id": "en:a-long-time-coming",
+      "lang": "en",
+      "word": "a long time coming",
+      "display_title": "a long time coming",
+      "senses": [
+        {
+          "pos": "expression",
+          "meaning": "姍姍來遲；經過很長時間才等到或實現",
+          "tags": [
+            "表達",
+            "時間",
+            "進展"
+          ],
+          "collocations": [
+            "has been a long time coming"
+          ],
+          "synonyms": [
+            "long-awaited",
+            "overdue"
+          ],
+          "examples": [
+            {
+              "text": "An effective treatment for this condition has been a long time coming.",
+              "translation": "針對這種病症的有效療法著實讓人等待了漫長的時間。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/en/2026-11-05-bbc-could-vaccines-cure-cancer"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "en:false-dawn",
+      "lang": "en",
+      "word": "false dawn",
+      "display_title": "false dawn",
+      "senses": [
+        {
+          "pos": "noun phrase",
+          "meaning": "虛假的曙光；看似出現好轉或希望，實際上卻沒有真正改善",
+          "tags": [
+            "醫學",
+            "科學",
+            "研究"
+          ],
+          "collocations": [
+            "prove to be a false dawn"
+          ],
+          "synonyms": [
+            "false hope",
+            "illusion"
+          ],
+          "examples": [
+            {
+              "text": "Scientists cautioned that the early experimental success might only be a false dawn.",
+              "translation": "科學家警告，早期的實驗成功可能只是一道虛假的曙光。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/en/2026-11-05-bbc-could-vaccines-cure-cancer"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "en:space",
+      "lang": "en",
+      "word": "space",
+      "display_title": "space",
+      "ipa": "/speɪs/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "（特定研究、專業活動或商業的）領域、範疇",
+          "tags": [
+            "科學",
+            "專業領域",
+            "研究"
+          ],
+          "collocations": [
+            "in this space",
+            "cancer vaccine space"
+          ],
+          "synonyms": [
+            "field",
+            "domain",
+            "arena"
+          ],
+          "examples": [
+            {
+              "text": "Many international laboratories are now competing in the cancer vaccine space.",
+              "translation": "許多國際實驗室如今都在癌症疫苗領域中展開競爭。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/en/2026-11-05-bbc-could-vaccines-cure-cancer"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "en:breakthrough",
+      "lang": "en",
+      "word": "breakthrough",
+      "display_title": "breakthrough",
+      "ipa": "/ˈbreɪk.θruː/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "突破；重大進展",
+          "tags": [
+            "科學",
+            "創新",
+            "醫學"
+          ],
+          "collocations": [
+            "medical breakthrough",
+            "scientific breakthrough",
+            "major breakthrough"
+          ],
+          "synonyms": [
+            "advancement",
+            "quantum leap",
+            "discovery"
+          ],
+          "examples": [
+            {
+              "text": "The development of mRNA technology represents a major breakthrough in modern medicine.",
+              "translation": "mRNA 技術的研發代表了現代醫學的一項重大突破。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/en/2026-11-05-bbc-could-vaccines-cure-cancer"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "en:prime",
+      "lang": "en",
+      "word": "prime",
+      "display_title": "prime",
+      "ipa": "/praɪm/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "使……做好準備；預先準備（如引導免疫系統辨識目標）",
+          "tags": [
+            "醫學",
+            "免疫系統",
+            "動作"
+          ],
+          "collocations": [
+            "prime the immune system",
+            "prime someone for something"
+          ],
+          "synonyms": [
+            "prepare",
+            "train",
+            "ready"
+          ],
+          "examples": [
+            {
+              "text": "The therapeutic vaccine is designed to prime the immune system to recognize mutant cells.",
+              "translation": "這款治療性疫苗旨在引導免疫系統做好辨識突變細胞的準備。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/en/2026-11-05-bbc-could-vaccines-cure-cancer"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "en:promise",
+      "lang": "en",
+      "word": "promise",
+      "display_title": "promise",
+      "ipa": "/ˈprɒm.ɪs/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "潛力；值得期待的發展前景",
+          "tags": [
+            "科學",
+            "發展前景",
+            "研究"
+          ],
+          "collocations": [
+            "show great promise",
+            "hold promise for"
+          ],
+          "synonyms": [
+            "potential",
+            "prospect",
+            "promise"
+          ],
+          "examples": [
+            {
+              "text": "Personalized immunotherapy shows great promise for treating rare diseases.",
+              "translation": "個人化免疫療法在治療罕見疾病方面展現了極大的前景潛力。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/en/2026-11-05-bbc-could-vaccines-cure-cancer"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "en:generation",
+      "lang": "en",
+      "word": "generation",
+      "display_title": "generation",
+      "ipa": "/ˌdʒen.əˈreɪ.ʃən/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "世代；年齡相近或處於相似人生階段的一群人",
+          "tags": [
+            "社會",
+            "家庭",
+            "年齡"
+          ],
+          "collocations": [
+            "older generation",
+            "younger generation",
+            "across generations"
+          ],
+          "synonyms": [
+            "age group",
+            "peer group"
+          ],
+          "examples": [
+            {
+              "text": "Bringing different generations together helps foster mutual understanding and empathy.",
+              "translation": "讓不同世代相聚在一起，有助於促進彼此的理解與同理心。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/en/2026-11-12-bbc-learning-from-different-generations"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "en:fill-a-void",
+      "lang": "en",
+      "word": "fill a void",
+      "display_title": "fill a void",
+      "senses": [
+        {
+          "pos": "idiomatic verb phrase",
+          "meaning": "填補空缺；在失落或失去之後，透過某事物減輕內心的空缺感",
+          "tags": [
+            "心理",
+            "人際關係",
+            "生活"
+          ],
+          "collocations": [
+            "help fill a void",
+            "fill an emotional void"
+          ],
+          "synonyms": [
+            "fill a gap",
+            "compensate for a loss"
+          ],
+          "examples": [
+            {
+              "text": "Reading stories to nursery children helped fill a void after she lost her partner.",
+              "translation": "為幼兒園孩子們朗讀故事，在她失去伴侶後幫助填補了內心的空缺。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/en/2026-11-12-bbc-learning-from-different-generations"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "en:such-and-such",
+      "lang": "en",
+      "word": "such and such",
+      "display_title": "such and such",
+      "senses": [
+        {
+          "pos": "fixed expression",
+          "meaning": "某某事情；用來指稱某件未具體說明的事情",
+          "tags": [
+            "日常會話",
+            "口語表達"
+          ],
+          "collocations": [
+            "do such and such",
+            "say such and such"
+          ],
+          "synonyms": [
+            "this and that",
+            "so-and-so"
+          ],
+          "examples": [
+            {
+              "text": "People often wonder why you don't do such and such with your free time.",
+              "translation": "人們常常納悶你為什麼不用空閒時間去做某某事情。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/en/2026-11-12-bbc-learning-from-different-generations"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "en:hear-something-on-the-grapevine",
+      "lang": "en",
+      "word": "hear something on the grapevine",
+      "display_title": "hear something on the grapevine",
+      "senses": [
+        {
+          "pos": "idiom",
+          "meaning": "聽到傳聞；從非正式消息來源得知",
+          "tags": [
+            "溝通",
+            "日常表達",
+            "消息"
+          ],
+          "collocations": [
+            "heard it on the grapevine"
+          ],
+          "synonyms": [
+            "hear through rumors",
+            "hear by word of mouth"
+          ],
+          "examples": [
+            {
+              "text": "I heard on the grapevine that the intergenerational care program was expanding nationwide.",
+              "translation": "我輾轉聽說這項跨世代照護計畫正準備推廣至全國。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/en/2026-11-12-bbc-learning-from-different-generations"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "en:break-down-stereotypes",
+      "lang": "en",
+      "word": "break down stereotypes",
+      "display_title": "break down stereotypes",
+      "senses": [
+        {
+          "pos": "verb phrase",
+          "meaning": "打破刻板印象；證明人們對某群體的既有看法不一定正確",
+          "tags": [
+            "社會",
+            "文化",
+            "觀念"
+          ],
+          "collocations": [
+            "help break down stereotypes",
+            "break down ageist stereotypes"
+          ],
+          "synonyms": [
+            "dispel myths",
+            "challenge preconceptions"
+          ],
+          "examples": [
+            {
+              "text": "Playing games together helped break down stereotypes that seniors cannot keep up with technology.",
+              "translation": "一起玩遊戲打破了長者無法跟上科技步伐的刻板印象。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/en/2026-11-12-bbc-learning-from-different-generations"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "en:lively",
+      "lang": "en",
+      "word": "lively",
+      "display_title": "lively",
+      "ipa": "/ˈlaɪv.li/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "活潑的；熱鬧且充滿活力的",
+          "tags": [
+            "性格",
+            "氣氛",
+            "描述"
+          ],
+          "collocations": [
+            "lively atmosphere",
+            "lively discussion",
+            "lively personality"
+          ],
+          "synonyms": [
+            "energetic",
+            "vibrant",
+            "spirited"
+          ],
+          "examples": [
+            {
+              "text": "The shared community hall quickly became lively with laughter and music.",
+              "translation": "共享的社區大廳很快就充滿了笑聲與音樂，變得熱鬧非凡。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/en/2026-11-12-bbc-learning-from-different-generations"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "en:meticulous",
+      "lang": "en",
+      "word": "meticulous",
+      "display_title": "meticulous",
+      "ipa": "/məˈtɪk.jə.ləs/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "一絲不苟的；非常仔細的",
+          "tags": [
+            "工作",
+            "學習"
+          ],
+          "collocations": [
+            "meticulous research",
+            "meticulous attention to detail"
+          ],
+          "synonyms": [
+            "thorough",
+            "painstaking"
+          ],
+          "examples": [
+            {
+              "text": "She is meticulous when checking research data.",
+              "translation": "她檢查研究資料時一絲不苟。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:bank",
+      "lang": "de",
+      "word": "Bank",
+      "display_title": "die Bank",
+      "article": "die",
+      "plural": "Banken",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "銀行",
+          "tags": [
+            "日常生活",
+            "金融",
+            "場所"
+          ],
+          "examples": [
+            {
+              "text": "Die Bank öffnet um neun Uhr.",
+              "translation": "這家銀行上午九點開門。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:bitte",
+      "lang": "de",
+      "word": "bitte",
+      "display_title": "bitte",
+      "senses": [
+        {
+          "pos": "particle",
+          "meaning": "請；請求；拜託",
+          "tags": [
+            "日常禮貌",
+            "溝通"
+          ],
+          "examples": [
+            {
+              "text": "Ein Glas Wasser, bitte!",
+              "translation": "請給我一杯水！",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:buero",
+      "lang": "de",
+      "word": "Büro",
+      "display_title": "das Büro",
+      "article": "das",
+      "plural": "Büros",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "辦公室",
+          "tags": [
+            "工作",
+            "場所"
+          ],
+          "examples": [
+            {
+              "text": "Mein Büro ist modern und hell.",
+              "translation": "我的辦公室現代且明亮。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:bus",
+      "lang": "de",
+      "word": "Bus",
+      "display_title": "der Bus",
+      "article": "der",
+      "plural": "Busse",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "公車；巴士",
+          "tags": [
+            "交通",
+            "日常生活"
+          ],
+          "examples": [
+            {
+              "text": "Der Bus kommt pünktlich an der Haltestelle an.",
+              "translation": "公車準時到達站牌。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:computer",
+      "lang": "de",
+      "word": "Computer",
+      "display_title": "der Computer",
+      "article": "der",
+      "plural": "Computer",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "電腦",
+          "tags": [
+            "科技",
+            "工作"
+          ],
+          "examples": [
+            {
+              "text": "Der Computer auf dem Schreibtisch ist neu.",
+              "translation": "辦公桌上的電腦是新的。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:e-mail",
+      "lang": "de",
+      "word": "E-Mail",
+      "display_title": "die E-Mail",
+      "article": "die",
+      "plural": "E-Mails",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "電子郵件",
+          "tags": [
+            "溝通",
+            "科技"
+          ],
+          "examples": [
+            {
+              "text": "Ich schreibe heute eine wichtige E-Mail.",
+              "translation": "我今天寫了一封重要的電子郵件。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:familie",
+      "lang": "de",
+      "word": "Familie",
+      "display_title": "die Familie",
+      "article": "die",
+      "plural": "Familien",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "家庭；家人",
+          "tags": [
+            "家庭",
+            "人際關係"
+          ],
+          "examples": [
+            {
+              "text": "Meine Familie wohnt in einer kleinen Stadt.",
+              "translation": "我的家人住在一座小城市裡。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:flughafen",
+      "lang": "de",
+      "word": "Flughafen",
+      "display_title": "der Flughafen",
+      "article": "der",
+      "plural": "Flughäfen",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "機場",
+          "tags": [
+            "交通",
+            "旅行"
+          ],
+          "examples": [
+            {
+              "text": "Wir fahren mit dem Taxi zum Flughafen.",
+              "translation": "我們搭計程車去機場。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:gitarre",
+      "lang": "de",
+      "word": "Gitarre",
+      "display_title": "die Gitarre",
+      "article": "die",
+      "plural": "Gitarren",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "吉他",
+          "tags": [
+            "休閒",
+            "音樂"
+          ],
+          "examples": [
+            {
+              "text": "Er spielt jeden Abend gern Gitarre.",
+              "translation": "他每天晚上都喜歡彈吉他。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:hobby",
+      "lang": "de",
+      "word": "Hobby",
+      "display_title": "das Hobby",
+      "article": "das",
+      "plural": "Hobbys",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "興趣；嗜好",
+          "tags": [
+            "休閒",
+            "個人生活"
+          ],
+          "examples": [
+            {
+              "text": "Lesen und Reisen sind meine liebsten Hobbys.",
+              "translation": "閱讀和旅行是我最喜歡的嗜好。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:hotel",
+      "lang": "de",
+      "word": "Hotel",
+      "display_title": "das Hotel",
+      "article": "das",
+      "plural": "Hotels",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "飯店；旅館",
+          "tags": [
+            "旅行",
+            "住宿"
+          ],
+          "examples": [
+            {
+              "text": "Das Hotel liegt direkt im Stadtzentrum.",
+              "translation": "這家飯店就位於市中心。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:information",
+      "lang": "de",
+      "word": "Information",
+      "display_title": "die Information",
+      "article": "die",
+      "plural": null,
+      "plural_note": "教材說明為 der Informationsschalter 的簡稱，且此處僅用單數",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "服務台；問訊處",
+          "tags": [
+            "日常生活",
+            "場所",
+            "旅行"
+          ],
+          "examples": [
+            {
+              "text": "Fragen Sie bitte an der Information nach dem Weg.",
+              "translation": "請在服務台詢問路線。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:kaffee",
+      "lang": "de",
+      "word": "Kaffee",
+      "display_title": "der Kaffee",
+      "article": "der",
+      "plural": "Kaffees",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "咖啡",
+          "tags": [
+            "飲食",
+            "日常生活"
+          ],
+          "examples": [
+            {
+              "text": "Ich trinke morgens gerne einen heißen Kaffee.",
+              "translation": "我早上喜歡喝一杯熱咖啡。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:kein-problem",
+      "lang": "de",
+      "word": "Kein Problem",
+      "display_title": "Kein Problem",
+      "senses": [
+        {
+          "pos": "expression",
+          "meaning": "沒問題",
+          "tags": [
+            "日常會話",
+            "溝通"
+          ],
+          "examples": [
+            {
+              "text": "Danke für die Hilfe! — Kein Problem!",
+              "translation": "謝謝你的幫忙！——沒問題！",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:kino",
+      "lang": "de",
+      "word": "Kino",
+      "display_title": "das Kino",
+      "article": "das",
+      "plural": "Kinos",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "電影院",
+          "tags": [
+            "休閒",
+            "文化"
+          ],
+          "examples": [
+            {
+              "text": "Wir gehen am Samstagabend ins Kino.",
+              "translation": "我們星期六晚上要去電影院。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:konzert",
+      "lang": "de",
+      "word": "Konzert",
+      "display_title": "das Konzert",
+      "article": "das",
+      "plural": "Konzerte",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "演奏會；音樂會",
+          "tags": [
+            "休閒",
+            "音樂"
+          ],
+          "examples": [
+            {
+              "text": "Das klassische Konzert beginnt um zwanzig Uhr.",
+              "translation": "這場古典音樂會晚上八點開始。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:kultur",
+      "lang": "de",
+      "word": "Kultur",
+      "display_title": "die Kultur",
+      "article": "die",
+      "plural": null,
+      "plural_note": "教材標示僅單數使用",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "文化",
+          "tags": [
+            "文化",
+            "社會"
+          ],
+          "examples": [
+            {
+              "text": "Kunst und Musik sind wichtige Teile der Kultur.",
+              "translation": "藝術與音樂是文化的重要組成部分。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:museum",
+      "lang": "de",
+      "word": "Museum",
+      "display_title": "das Museum",
+      "article": "das",
+      "plural": "Museen",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "博物館",
+          "tags": [
+            "休閒",
+            "文化"
+          ],
+          "examples": [
+            {
+              "text": "Das Museum zeigt berühmte Gemälde.",
+              "translation": "這座博物館展出著名的畫作。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:musik",
+      "lang": "de",
+      "word": "Musik",
+      "display_title": "die Musik",
+      "article": "die",
+      "plural": null,
+      "plural_note": "教材標示僅單數使用",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "音樂",
+          "tags": [
+            "休閒",
+            "音樂"
+          ],
+          "examples": [
+            {
+              "text": "Ich höre beim Lernen leise Musik.",
+              "translation": "我讀書時喜歡聽輕柔的音樂。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:okay",
+      "lang": "de",
+      "word": "okay",
+      "display_title": "okay",
+      "senses": [
+        {
+          "pos": "interjection",
+          "meaning": "好；行",
+          "tags": [
+            "日常會話",
+            "口語表達"
+          ],
+          "examples": [
+            {
+              "text": "Treffen wir uns um fünf? — Okay, bis später!",
+              "translation": "我們五點見面好嗎？——好的，待會見！",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:pilot",
+      "lang": "de",
+      "word": "Pilot",
+      "display_title": "der Pilot",
+      "article": "der",
+      "plural": "Piloten",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "男飛行員；飛行員",
+          "tags": [
+            "職業",
+            "工作",
+            "交通"
+          ],
+          "examples": [
+            {
+              "text": "Der Pilot steuert das große Flugzeug sicher.",
+              "translation": "飛行員安全地駕駛著這架大飛機。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:pilotin",
+      "lang": "de",
+      "word": "Pilotin",
+      "display_title": "die Pilotin",
+      "article": "die",
+      "plural": "Pilotinnen",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "女飛行員",
+          "tags": [
+            "職業",
+            "工作",
+            "交通"
+          ],
+          "examples": [
+            {
+              "text": "Die Pilotin begrüßt die Passagiere an Bord.",
+              "translation": "女飛行員向機上的乘客問好。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:pizza",
+      "lang": "de",
+      "word": "Pizza",
+      "display_title": "die Pizza",
+      "article": "die",
+      "plural": "Pizzen",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "披薩",
+          "tags": [
+            "飲食",
+            "日常生活"
+          ],
+          "examples": [
+            {
+              "text": "Wir bestellen heute Abend eine leckere Pizza.",
+              "translation": "我們今天晚上點了一份美味的披薩。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:problem",
+      "lang": "de",
+      "word": "Problem",
+      "display_title": "das Problem",
+      "article": "das",
+      "plural": "Probleme",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "問題；麻煩",
+          "tags": [
+            "日常生活",
+            "抽象名詞"
+          ],
+          "examples": [
+            {
+              "text": "Das ist kein großes Problem für mich.",
+              "translation": "那對我來說不是什麼大問題。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:restaurant",
+      "lang": "de",
+      "word": "Restaurant",
+      "display_title": "das Restaurant",
+      "article": "das",
+      "plural": "Restaurants",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "餐廳",
+          "tags": [
+            "飲食",
+            "場所"
+          ],
+          "examples": [
+            {
+              "text": "Das italienische Restaurant hat sehr gutes Essen.",
+              "translation": "這家義大利餐廳的餐點非常美味。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:sport",
+      "lang": "de",
+      "word": "Sport",
+      "display_title": "der Sport",
+      "article": "der",
+      "plural": null,
+      "plural_note": "教材標示僅單數使用",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "體育運動",
+          "tags": [
+            "休閒",
+            "運動"
+          ],
+          "examples": [
+            {
+              "text": "Er treibt regelmäßig Sport, um gesund zu bleiben.",
+              "translation": "他規律地進行體育運動以維持健康。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:student",
+      "lang": "de",
+      "word": "Student",
+      "display_title": "der Student",
+      "article": "der",
+      "plural": "Studenten",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "男大學生；男學生",
+          "tags": [
+            "學習",
+            "身分"
+          ],
+          "examples": [
+            {
+              "text": "Der Student liest fleißig in der Bibliothek.",
+              "translation": "這名男大學生在圖書館裡用功閱讀。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:studentin",
+      "lang": "de",
+      "word": "Studentin",
+      "display_title": "die Studentin",
+      "article": "die",
+      "plural": "Studentinnen",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "女大學生；女學生",
+          "tags": [
+            "學習",
+            "身分"
+          ],
+          "examples": [
+            {
+              "text": "Die Studentin lernt Deutsch für ihr Studium.",
+              "translation": "這名女大學生為了她的學業正在學習德語。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:studieren",
+      "lang": "de",
+      "word": "studieren",
+      "display_title": "studieren",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning": "（在大學）讀書；就讀；研讀",
+          "tags": [
+            "學習",
+            "動作"
+          ],
+          "examples": [
+            {
+              "text": "Nico möchte in Deutschland Informatik studieren.",
+              "translation": "Nico 想在德國攻讀資訊科學。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:supermarkt",
+      "lang": "de",
+      "word": "Supermarkt",
+      "display_title": "der Supermarkt",
+      "article": "der",
+      "plural": "Supermärkte",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "超級市場",
+          "tags": [
+            "購物",
+            "日常生活"
+          ],
+          "examples": [
+            {
+              "text": "Der Supermarkt um die Ecke hat bis zweiundzwanzig Uhr geöffnet.",
+              "translation": "轉角的超級市場營業到晚上十點。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:taxi",
+      "lang": "de",
+      "word": "Taxi",
+      "display_title": "das Taxi",
+      "article": "das",
+      "plural": "Taxis",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "計程車",
+          "tags": [
+            "交通",
+            "日常生活"
+          ],
+          "examples": [
+            {
+              "text": "Wir nehmen ein Taxi zum Hauptbahnhof.",
+              "translation": "我們搭計程車去火車總站。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:telefon",
+      "lang": "de",
+      "word": "Telefon",
+      "display_title": "das Telefon",
+      "article": "das",
+      "plural": "Telefone",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "電話",
+          "tags": [
+            "溝通",
+            "科技"
+          ],
+          "examples": [
+            {
+              "text": "Das Telefon im Büro klingelt schon wieder.",
+              "translation": "辦公室裡的電話又響了。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:theater",
+      "lang": "de",
+      "word": "Theater",
+      "display_title": "das Theater",
+      "article": "das",
+      "plural": "Theater",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "劇院；戲劇",
+          "tags": [
+            "休閒",
+            "文化"
+          ],
+          "examples": [
+            {
+              "text": "Sie gehen heute Abend zusammen ins Theater.",
+              "translation": "他們今天晚上一起去看戲。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:toilette",
+      "lang": "de",
+      "word": "Toilette",
+      "display_title": "die Toilette",
+      "article": "die",
+      "plural": "Toiletten",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "廁所",
+          "tags": [
+            "日常生活",
+            "設施"
+          ],
+          "examples": [
+            {
+              "text": "Wo ist hier bitte die Toilette?",
+              "translation": "請問這裡的洗手間在哪裡？",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:universitaet",
+      "lang": "de",
+      "word": "Universität",
+      "display_title": "die Universität",
+      "article": "die",
+      "plural": "Universitäten",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "大學",
+          "tags": [
+            "學習",
+            "機構"
+          ],
+          "examples": [
+            {
+              "text": "Die Universität hat eine traditionsreiche Geschichte.",
+              "translation": "這所大學擁有悠久的傳統歷史。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:zentrum",
+      "lang": "de",
+      "word": "Zentrum",
+      "display_title": "das Zentrum",
+      "article": "das",
+      "plural": "Zentren",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "中心；市中心",
+          "tags": [
+            "地理",
+            "城市"
+          ],
+          "examples": [
+            {
+              "text": "Im Zentrum der Stadt gibt es viele schöne Geschäfte.",
+              "translation": "在市中心有許多漂亮的商店。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-additional-vocabulary-list"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:informell",
+      "lang": "de",
+      "word": "informell",
+      "display_title": "informell",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "非正式的；用於家人、朋友等熟悉關係",
+          "tags": [
+            "社交",
+            "溝通"
+          ],
+          "examples": [
+            {
+              "text": "Unter Freunden ist die Anrede meist informell.",
+              "translation": "朋友之間的稱呼通常是非正式的。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:formell",
+      "lang": "de",
+      "word": "formell",
+      "display_title": "formell",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "正式的；用於正式場合及不熟悉的成年人",
+          "tags": [
+            "社交",
+            "溝通",
+            "正式用語"
+          ],
+          "examples": [
+            {
+              "text": "Im Geschäftsleben verwendet man eine formelle Sprache.",
+              "translation": "在商務場合中，人們使用正式的語言。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:auch",
+      "lang": "de",
+      "word": "auch",
+      "display_title": "auch",
+      "senses": [
+        {
+          "pos": "adv.",
+          "meaning": "也",
+          "tags": [
+            "副詞",
+            "基本語彙"
+          ],
+          "examples": [
+            {
+              "text": "Ich lerne Deutsch, und meine Schwester lernt auch Deutsch.",
+              "translation": "我在學德語，我妹妹也在學德語。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:beispiel",
+      "lang": "de",
+      "word": "Beispiel",
+      "display_title": "das Beispiel",
+      "article": "das",
+      "plural": "Beispiele",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "例子",
+          "tags": [
+            "學習",
+            "基本名詞"
+          ],
+          "examples": [
+            {
+              "text": "Können Sie bitte ein Beispiel nennen?",
+              "translation": "您可以舉一個例子嗎？",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:danke",
+      "lang": "de",
+      "word": "danke",
+      "display_title": "danke",
+      "senses": [
+        {
+          "pos": "interjection",
+          "meaning": "謝謝",
+          "tags": [
+            "日常禮貌",
+            "溝通"
+          ],
+          "examples": [
+            {
+              "text": "Vielen Dank für Ihre Hilfe! — Danke, gleichfalls!",
+              "translation": "非常感謝您的協助！——謝謝，您也一樣！",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:es-geht-mir-gut",
+      "lang": "de",
+      "word": "Es geht mir gut.",
+      "display_title": "Es geht mir gut.",
+      "senses": [
+        {
+          "pos": "expression",
+          "meaning": "我很好",
+          "tags": [
+            "問候",
+            "日常會話"
+          ],
+          "examples": [
+            {
+              "text": "Wie geht es dir? — Danke, es geht mir gut.",
+              "translation": "你好嗎？——謝謝，我很好。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:es-ist-09-00-uhr",
+      "lang": "de",
+      "word": "Es ist 09:00 Uhr.",
+      "display_title": "Es ist 09:00 Uhr.",
+      "senses": [
+        {
+          "pos": "expression",
+          "meaning": "現在是上午 9 點",
+          "tags": [
+            "時間",
+            "日常表達"
+          ],
+          "examples": [
+            {
+              "text": "Wie spät ist es? — Es ist 09:00 Uhr.",
+              "translation": "現在幾點了？——現在是上午九點。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:gut",
+      "lang": "de",
+      "word": "gut",
+      "display_title": "gut",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "好",
+          "tags": [
+            "形容詞",
+            "日常評價"
+          ],
+          "examples": [
+            {
+              "text": "Das Buch ist wirklich gut geschrieben.",
+              "translation": "這本書寫得真的很好。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:guten-abend",
+      "lang": "de",
+      "word": "Guten Abend",
+      "display_title": "Guten Abend",
+      "senses": [
+        {
+          "pos": "greeting",
+          "meaning": "晚安；晚上好（傍晚 6 點之後使用）",
+          "tags": [
+            "問候",
+            "日常會話"
+          ],
+          "examples": [
+            {
+              "text": "Guten Abend, meine Damen und Herren!",
+              "translation": "各位女士、各位先生，晚上好！",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:guten-morgen",
+      "lang": "de",
+      "word": "Guten Morgen",
+      "display_title": "Guten Morgen",
+      "senses": [
+        {
+          "pos": "greeting",
+          "meaning": "早安（早晨至上午約 11 點使用）",
+          "tags": [
+            "問候",
+            "日常會話"
+          ],
+          "examples": [
+            {
+              "text": "Guten Morgen! Wie haben Sie geschlafen?",
+              "translation": "早安！您睡得好嗎？",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:guten-tag",
+      "lang": "de",
+      "word": "Guten Tag",
+      "display_title": "Guten Tag",
+      "senses": [
+        {
+          "pos": "greeting",
+          "meaning": "您好；日安（上午約 11 點至傍晚 6 點使用）",
+          "tags": [
+            "問候",
+            "日常會話",
+            "正式用語"
+          ],
+          "examples": [
+            {
+              "text": "Guten Tag, wie kann ich Ihnen helfen?",
+              "translation": "您好，我能如何協助您？",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:hallo",
+      "lang": "de",
+      "word": "Hallo",
+      "display_title": "Hallo",
+      "senses": [
+        {
+          "pos": "greeting",
+          "meaning": "嗨；你好（非正式問候）",
+          "tags": [
+            "問候",
+            "非正式稱呼"
+          ],
+          "examples": [
+            {
+              "text": "Hallo, Sarah! Schön, dich zu sehen!",
+              "translation": "嗨，Sarah！很高興見到妳！",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:hey",
+      "lang": "de",
+      "word": "Hey",
+      "display_title": "Hey",
+      "senses": [
+        {
+          "pos": "greeting",
+          "meaning": "嘿（非正式問候）",
+          "tags": [
+            "問候",
+            "非正式稱呼"
+          ],
+          "examples": [
+            {
+              "text": "Hey, Lena! Kommst du mit zum Café?",
+              "translation": "嘿，Lena！妳要一起去咖啡廳嗎？",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:hi",
+      "lang": "de",
+      "word": "Hi",
+      "display_title": "Hi",
+      "senses": [
+        {
+          "pos": "greeting",
+          "meaning": "嗨（非正式問候）",
+          "tags": [
+            "問候",
+            "非正式稱呼"
+          ],
+          "examples": [
+            {
+              "text": "Hi, Tom! Wie geht's dir?",
+              "translation": "嗨，Tom！你好嗎？",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:mann",
+      "lang": "de",
+      "word": "Mann",
+      "display_title": "der Mann",
+      "article": "der",
+      "plural": "Männer",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning": "男人；男士",
+          "tags": [
+            "人物",
+            "日常生活"
+          ],
+          "examples": [
+            {
+              "text": "Der Mann dort drüben ist unser Deutschlehrer.",
+              "translation": "那邊的那位男士是我們的德語老師。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:nicht",
+      "lang": "de",
+      "word": "nicht",
+      "display_title": "nicht",
+      "senses": [
+        {
+          "pos": "particle",
+          "meaning": "不（否定詞）",
+          "tags": [
+            "否定",
+            "基本文法"
+          ],
+          "examples": [
+            {
+              "text": "Das weiß ich leider nicht.",
+              "translation": "這個我很抱歉並不知道。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:nicht-so-gut",
+      "lang": "de",
+      "word": "nicht so gut",
+      "display_title": "nicht so gut",
+      "senses": [
+        {
+          "pos": "expression",
+          "meaning": "不太好",
+          "tags": [
+            "日常會話",
+            "狀態表達"
+          ],
+          "examples": [
+            {
+              "text": "Wie geht es dir heute? — Leider nicht so gut.",
+              "translation": "你今天好嗎？——遺憾的是不太好。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:oder",
+      "lang": "de",
+      "word": "oder",
+      "display_title": "oder",
+      "senses": [
+        {
+          "pos": "conjunction",
+          "meaning": "或（連接詞）",
+          "tags": [
+            "連接詞",
+            "基本文法"
+          ],
+          "examples": [
+            {
+              "text": "Möchten Sie Tee oder Kaffee?",
+              "translation": "您想要喝茶還是咖啡？",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:schoen",
+      "lang": "de",
+      "word": "schön",
+      "display_title": "schön",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "漂亮的；美的",
+          "tags": [
+            "形容詞",
+            "描述"
+          ],
+          "examples": [
+            {
+              "text": "Wien ist eine sehr schöne Stadt.",
+              "translation": "維也納是一座非常美麗的城市。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:sehr-gut",
+      "lang": "de",
+      "word": "sehr gut",
+      "display_title": "sehr gut",
+      "senses": [
+        {
+          "pos": "expression",
+          "meaning": "很好；非常好",
+          "tags": [
+            "日常會話",
+            "狀態表達"
+          ],
+          "examples": [
+            {
+              "text": "Die Prüfung ist sehr gut gelaufen.",
+              "translation": "考試進行得非常順利。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:super",
+      "lang": "de",
+      "word": "super",
+      "display_title": "super",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning": "非常棒；超級好",
+          "tags": [
+            "形容詞",
+            "口語表達"
+          ],
+          "examples": [
+            {
+              "text": "Das Konzert gestern war einfach super!",
+              "translation": "昨天的音樂會簡直棒極了！",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:und",
+      "lang": "de",
+      "word": "und",
+      "display_title": "und",
+      "senses": [
+        {
+          "pos": "conjunction",
+          "meaning": "和；而且（連接詞）",
+          "tags": [
+            "連接詞",
+            "基本文法"
+          ],
+          "examples": [
+            {
+              "text": "Er spricht Deutsch und Englisch.",
+              "translation": "他說德語和英語。",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:und-dir",
+      "lang": "de",
+      "word": "Und dir?",
+      "display_title": "Und dir?",
+      "senses": [
+        {
+          "pos": "expression",
+          "meaning": "你呢？（非正式反問）",
+          "tags": [
+            "問候",
+            "非正式稱呼"
+          ],
+          "examples": [
+            {
+              "text": "Mir geht es gut. Und dir?",
+              "translation": "我很好。那你呢？",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:und-ihnen",
+      "lang": "de",
+      "word": "Und Ihnen?",
+      "display_title": "Und Ihnen?",
+      "senses": [
+        {
+          "pos": "expression",
+          "meaning": "您呢？（正式反問）",
+          "tags": [
+            "問候",
+            "正式用語"
+          ],
+          "examples": [
+            {
+              "text": "Danke, sehr gut. Und Ihnen?",
+              "translation": "謝謝，很好。您呢？",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:wie-geht-es-dir",
+      "lang": "de",
+      "word": "Wie geht es dir?",
+      "display_title": "Wie geht es dir?",
+      "senses": [
+        {
+          "pos": "expression",
+          "meaning": "你／你好嗎？",
+          "tags": [
+            "問候",
+            "非正式稱呼"
+          ],
+          "examples": [
+            {
+              "text": "Hallo, Nico! Wie geht es dir heute?",
+              "translation": "嗨，Nico！你今天好嗎？",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "de:wie-geht-es-ihnen",
+      "lang": "de",
+      "word": "Wie geht es Ihnen?",
+      "display_title": "Wie geht es Ihnen?",
+      "senses": [
+        {
+          "pos": "expression",
+          "meaning": "您好嗎？（正式問候）",
+          "tags": [
+            "問候",
+            "正式用語"
+          ],
+          "examples": [
+            {
+              "text": "Guten Tag, Herr Müller! Wie geht es Ihnen?",
+              "translation": "日安，Müller 先生！您好嗎？",
+              "type": "ai_generated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "sources/de/2026-11-13-dw-nicos-weg-formal-informal-1"
+      ],
+      "created": "2026-11-13",
+      "updated": "2026-11-13"
+    }
+  ]
+}

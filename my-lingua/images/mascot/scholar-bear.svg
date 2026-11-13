@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%" aria-label="Scholar Bear - My Lingual Mascot">
+  <defs>
+    <filter id="soft-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#1E293B" flood-opacity="0.12"/>
+    </filter>
+    <linearGradient id="fur-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#D1A779"/>
+      <stop offset="100%" stop-color="#BA8B5C"/>
+    </linearGradient>
+    <linearGradient id="paw-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#DEB88A"/>
+      <stop offset="100%" stop-color="#C29463"/>
+    </linearGradient>
+    <linearGradient id="book-cover" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2D5A43"/>
+      <stop offset="100%" stop-color="#1E3E2E"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Ground Shadow -->
+  <ellipse cx="100" cy="186" rx="68" ry="10" fill="#1E293B" opacity="0.08"/>
+
+  <!-- Bear Group with Filter -->
+  <g filter="url(#soft-shadow)">
+    <!-- Ears -->
+    <!-- Left Ear Outer -->
+    <circle cx="58" cy="54" r="22" fill="url(#fur-grad)"/>
+    <!-- Left Ear Inner -->
+    <circle cx="58" cy="54" r="13" fill="#F5EBE1"/>
+    
+    <!-- Right Ear Outer -->
+    <circle cx="142" cy="54" r="22" fill="url(#fur-grad)"/>
+    <!-- Right Ear Inner -->
+    <circle cx="142" cy="54" r="13" fill="#F5EBE1"/>
+
+    <!-- Bear Body -->
+    <path d="M 60 120 C 50 145, 52 178, 100 178 C 148 178, 150 145, 140 120 Z" fill="url(#fur-grad)"/>
+
+    <!-- Bear Head -->
+    <circle cx="100" cy="92" r="48" fill="url(#fur-grad)"/>
+
+    <!-- Muzzle / Snout -->
+    <ellipse cx="100" cy="104" rx="22" ry="17" fill="#F5EBE1"/>
+    
+    <!-- Nose -->
+    <path d="M 94 96 C 96 93, 104 93, 106 96 C 108 100, 102 105, 100 105 C 98 105, 92 100, 94 96 Z" fill="#2C1E17"/>
+    
+    <!-- Mouth -->
+    <path d="M 100 105 L 100 111 M 94 110 Q 100 115 106 110" stroke="#2C1E17" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+    <!-- Eyes (Friendly, calm) -->
+    <!-- Left Eye -->
+    <circle cx="78" cy="86" r="4.5" fill="#2C1E17"/>
+    <circle cx="76.5" cy="84.5" r="1.5" fill="#FFFFFF"/>
+    <!-- Right Eye -->
+    <circle cx="122" cy="86" r="4.5" fill="#2C1E17"/>
+    <circle cx="120.5" cy="84.5" r="1.5" fill="#FFFFFF"/>
+
+    <!-- Rosy Cheeks -->
+    <circle cx="68" cy="98" r="7" fill="#EFA497" opacity="0.55"/>
+    <circle cx="132" cy="98" r="7" fill="#EFA497" opacity="0.55"/>
+
+    <!-- Eyebrows -->
+    <path d="M 72 78 Q 78 74 84 77" stroke="#A07248" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+    <path d="M 116 77 Q 122 74 128 78" stroke="#A07248" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+
+    <!-- Amber Ribbon / Collar -->
+    <path d="M 72 133 Q 100 144 128 133" stroke="#D97706" stroke-width="6" stroke-linecap="round" fill="none"/>
+    <!-- Little Compass / Medal Pendant -->
+    <circle cx="100" cy="144" r="6" fill="#F59E0B" stroke="#B45309" stroke-width="1"/>
+    <path d="M 100 141 L 100 147 M 97 144 L 103 144" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round"/>
+
+    <!-- Forearms extending naturally from the sides of the body -->
+    <!-- Left Forearm -->
+    <path d="M 58 126 C 46 136, 42 148, 50 158 C 55 163, 62 161, 65 155 C 67 148, 66 136, 68 128 Z" fill="url(#fur-grad)" stroke="#A07248" stroke-width="1.2"/>
+    <!-- Right Forearm -->
+    <path d="M 142 126 C 154 136, 158 148, 150 158 C 145 163, 138 161, 135 155 C 133 148, 134 136, 132 128 Z" fill="url(#fur-grad)" stroke="#A07248" stroke-width="1.2"/>
+
+    <!-- Open Book (Centered in front of chest) -->
+    <!-- Book Back Cover -->
+    <path d="M 54 145 L 98 153 L 146 145 L 150 167 L 98 175 L 50 167 Z" fill="url(#book-cover)" stroke="#173124" stroke-width="1.5"/>
+    <!-- Book Pages (Left Page) -->
+    <path d="M 55 145 Q 77 141 97 151 L 97 171 Q 77 161 52 165 Z" fill="#FAF8F5" stroke="#E8E4DC" stroke-width="1"/>
+    <!-- Book Pages (Right Page) -->
+    <path d="M 145 145 Q 123 141 103 151 L 103 171 Q 123 161 148 165 Z" fill="#FAF8F5" stroke="#E8E4DC" stroke-width="1"/>
+    <!-- Text Lines on Pages -->
+    <line x1="65" y1="150" x2="88" y2="150" stroke="#2D5A43" stroke-width="1.4" stroke-linecap="round" opacity="0.4"/>
+    <line x1="63" y1="155" x2="86" y2="155" stroke="#2D5A43" stroke-width="1.4" stroke-linecap="round" opacity="0.4"/>
+    <line x1="66" y1="160" x2="82" y2="160" stroke="#2D5A43" stroke-width="1.4" stroke-linecap="round" opacity="0.4"/>
+
+    <line x1="112" y1="150" x2="135" y2="150" stroke="#2D5A43" stroke-width="1.4" stroke-linecap="round" opacity="0.4"/>
+    <line x1="114" y1="155" x2="137" y2="155" stroke="#2D5A43" stroke-width="1.4" stroke-linecap="round" opacity="0.4"/>
+    <line x1="118" y1="160" x2="134" y2="160" stroke="#2D5A43" stroke-width="1.4" stroke-linecap="round" opacity="0.4"/>
+
+    <!-- Ribbon Bookmark hanging down -->
+    <path d="M 100 152 L 100 177 L 96 173 L 92 177 L 92 152" fill="#D97706" opacity="0.9"/>
+
+    <!-- Paws Naturally Holding Outer Sides of the Book Cover -->
+    <!-- Left Paw (Clasping outer-left edge of book) -->
+    <g>
+      <ellipse cx="51" cy="154" rx="7.5" ry="9" fill="url(#paw-grad)" stroke="#8C5E35" stroke-width="1.4"/>
+      <!-- Soft toe pads for cute bear character -->
+      <circle cx="48" cy="150" r="1.5" fill="#FAF2EA"/>
+      <circle cx="51" cy="148" r="1.5" fill="#FAF2EA"/>
+      <circle cx="54" cy="150" r="1.5" fill="#FAF2EA"/>
+    </g>
+
+    <!-- Right Paw (Clasping outer-right edge of book) -->
+    <g>
+      <ellipse cx="149" cy="154" rx="7.5" ry="9" fill="url(#paw-grad)" stroke="#8C5E35" stroke-width="1.4"/>
+      <!-- Soft toe pads for cute bear character -->
+      <circle cx="146" cy="150" r="1.5" fill="#FAF2EA"/>
+      <circle cx="149" cy="148" r="1.5" fill="#FAF2EA"/>
+      <circle cx="152" cy="150" r="1.5" fill="#FAF2EA"/>
+    </g>
+  </g>
+</svg>
